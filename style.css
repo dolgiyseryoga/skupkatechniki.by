@@ -1,0 +1,414 @@
+.floatleft {
+  float: left;
+}
+.floatright {
+  float: right;
+}
+.alignleft {
+  float: left;
+  margin-right: 15px;
+}
+.alignright {
+  float: right;
+  margin-left: 15px;
+}
+.aligncenter {
+  display: block;
+  margin: 0 auto 15px;
+}
+a:focus {
+  outline: 0px solid;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.fix {
+  overflow: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  margin: 0 0 15px;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.logo {
+  font-family: "Kaushan Script", cursive;
+}
+.header-area {
+  background: none repeat scroll 0 0 #fff;
+  box-shadow: 2px 2px 2px rgb(37, 128, 9);
+  width: 100%;
+  z-index: 99;
+}
+.logo h1 {
+  font-size: 30px;
+  margin: 30px 0;
+}
+.is-sticky .logo h1 {
+  margin: 15px 0;
+  transition: 0.3s;
+}
+.is-sticky .mainmenu ul.navbar-nav li a {
+  padding: 10px 15px;
+  transition: 0.3s;
+}
+.is-sticky .mainmenu ul.navbar-nav {
+  margin-top: 12px;
+  transition: 0.3s;
+}
+.mainmenu ul.navbar-nav {
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+.mainmenu ul.navbar-nav li a {
+  color: #222;
+  margin-left: 10px;
+}
+.slider-area {
+  /*background: none repeat scroll 0 0 #f9f9f9;*/
+  padding: 80px 0;
+}
+.slide-text > h2 {
+  color: #222;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+.slide-text span {
+  font-weight: 300;
+}
+.slide-text {
+  color: #999;
+  font-size: 16px;
+}
+.readmore {
+  color: #fff;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
+.readmore:hover {
+  color: #fff;
+  background-color: #222;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.cta-text .readmore:hover {
+  background-color: #000;
+}
+.mainmenu ul.navbar-nav li:hover a,
+.mainmenu ul.navbar-nav li.active a {
+  color: #fff;
+}
+.page-title {
+  margin-bottom: 80px;
+  text-align: center;
+}
+.about-area {
+  padding: 80px 0;
+}
+.page-title h2 {
+  font-weight: 700;
+  margin-bottom: 35px;
+  padding-bottom: 30px;
+  position: relative;
+  text-transform: uppercase;
+}
+.page-title span {
+  font-weight: 300;
+}
+.page-title h2::before,
+.page-title h2::after {
+  background: none repeat scroll 0 0 #ddd;
+  bottom: 0;
+  content: "";
+  height: 1px;
+  left: 0;
+  position: absolute;
+  width: 335px;
+}
+.page-title h2::after {
+  left: inherit;
+  right: 0;
+}
+.page-title h2 i.fa {
+  bottom: -7px;
+  font-size: 18px;
+  left: 50%;
+  margin-left: -7px;
+  position: absolute;
+}
+.single-service {
+  margin-bottom: 100px;
+  text-align: center;
+}
+.single-service > h2 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.icon-holder {
+  border: 1px solid;
+  display: inline-block;
+  font-size: 35px;
+  height: 70px;
+  margin-bottom: 30px;
+  padding-top: 8px;
+  text-align: center;
+  width: 70px;
+}
+.single-service:hover .icon-holder {
+  border-radius: 50%;
+  border-color: #222;
+  color: #222;
+}
+.service-area {
+  padding-top: 100px;
+}
+.call-to-action {
+  color: #fff;
+  padding: 50px 0;
+  text-align: center;
+}
+.cta-text > h2 {
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.cta-text span {
+  font-weight: 300;
+}
+.cta-text {
+  font-size: 16px;
+  font-weight: 300;
+}
+.cta-text .readmore {
+  background: none repeat scroll 0 0 #222;
+  font-weight: 700;
+}
+.testimonial-area {
+  color: #fff;
+  padding: 80px 0;
+}
+.single-testimonial {
+  font-size: 16px;
+  font-weight: 300;
+  min-height: 178px;
+  position: relative;
+}
+.author-photo {
+  float: left;
+  height: auto;
+  margin-right: 40px;
+  width: 175px;
+}
+.single-testimonial > p.author-name {
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 20px;
+}
+.single-testimonial > p.author-name span {
+  font-weight: 300;
+  font-size: 18px;
+}
+.tes-control {
+  color: #000;
+  font-size: 60px;
+  line-height: 60px;
+  margin-top: -30px;
+  opacity: 0.1;
+  position: absolute;
+  top: 50%;
+}
+.tes-control.left {
+  left: -10%;
+}
+.tes-control.right {
+  right: -10%;
+}
+.tes-control:hover {
+  opacity: 1;
+  color: #000;
+}
+.contact-area {
+  padding-top: 80px;
+}
+.form-content label {
+  display: block;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.form-content input[type="text"],
+.form-content input[type="email"],
+.form-content textarea {
+  border: 1px solid #ddd;
+  margin-bottom: 25px;
+  margin-top: 10px;
+  padding: 10px;
+  width: 100%;
+}
+.form-content textarea {
+  height: 150px;
+}
+.form-content input[type="submit"] {
+  border: medium none;
+  color: #fff;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  width: 100%;
+}
+.form-content input[type="submit"]:hover,
+.newsletter-subscribe input[type="submit"]:hover {
+  background-color: #222;
+}
+.newsletter-subscribe input[type="submit"]:hover {
+  border: 2px solid #fff;
+  padding: 13px 30px;
+}
+.submit-wrapper {
+  text-align: center;
+}
+.footer-top {
+  background: none repeat scroll 0 0 #222;
+  color: #999;
+  margin-top: 100px;
+  padding: 80px 0;
+}
+.footer-top .page-title h2::before,
+.footer-top .page-title h2::after {
+  background: #444;
+}
+.testimonial-area .page-title h2::before,
+.testimonial-area .page-title h2::after {
+  background: #fff;
+}
+.testimonial-area .page-title h2 i.fa {
+  color: #fff;
+}
+footer {
+  background: none repeat scroll 0 0 #000;
+  color: #fff;
+  font-size: 12px;
+}
+.copyright-text > p {
+  margin: 0;
+  padding: 20px 0;
+}
+.scroll-to-up {
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  width: 40px;
+  border: 1px solid;
+}
+.scroll-to-up:hover,
+.social-footer a:hover {
+  background: #000;
+  color: #fff;
+  border-color: #fff;
+}
+.social-footer a {
+  color: #fff;
+  display: inline-block;
+  font-size: 18px;
+  height: 30px;
+  line-height: 27px;
+  margin-left: 10px;
+  text-align: center;
+  width: 30px;
+  border: 1px solid;
+}
+.social-footer {
+  margin-top: 16px;
+}
+.newsletter-subscribe input[type="email"] {
+  background: none repeat scroll 0 0 #fff;
+  border: medium none;
+  min-width: 450px;
+  padding: 15px;
+}
+.newsletter-subscribe input[type="submit"] {
+  border: 2px solid;
+  color: #fff;
+  padding: 13px 30px;
+  text-transform: uppercase;
+}
+.newsletter-subscribe {
+  text-align: center;
+}
+.about-list {
+  font-size: 14px;
+  font-weight: 300;
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+}
+.about-list > li {
+  padding: 5px 0;
+}
+.about-list {
+  font-size: 14px;
+  font-weight: 300;
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+}
+.about-list > li {
+  padding: 5px 0;
+}
+.about-text h3 {
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+.about-text h3 span {
+  font-weight: 300;
+}
+.about-text p {
+  line-height: 26px;
+}
+.about-text {
+}
+.about-list li i {
+  margin-right: 7px;
+}
+a,
+.page-title h2 i.fa,
+.icon-holder,
+.about-list li i {
+  color: green;
+  transition: 0.4s;
+}
+a:hover {
+  color: green;
+}
+.readmore,
+.mainmenu ul.navbar-nav li:hover a,
+.mainmenu ul.navbar-nav li.active a,
+.call-to-action,
+.testimonial-area,
+.form-content input[type="submit"],
+.scroll-to-up,
+.social-footer a,
+.newsletter-subscribe input[type="submit"] {
+  background-color: green;
+  transition: 0.4s;
+}
+.icon-holder,
+.scroll-to-up,
+.social-footer a,
+.newsletter-subscribe input[type="submit"] {
+  border-color: green;
+  transition: 0.4s;
+}

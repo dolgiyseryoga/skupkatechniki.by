@@ -1,0 +1,116 @@
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .logo h1,
+    .is-sticky .logo h1 {
+        margin: 10px 0;
+        text-align: center;
+    }
+    .mainmenu ul.navbar-nav {
+        float: none !important;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .mainmenu .navbar-nav > li {
+        display: inline-block;
+        float: none;
+    }
+    .is-sticky .mainmenu ul.navbar-nav li a { padding: 15px 15px }
+    .is-sticky .mainmenu ul.navbar-nav { margin-top: 10px }
+    .slider-area,
+    .about-area,
+    .testimonial-area { padding: 40px 0 }
+    .slide-text,
+    .about-photo { margin-bottom: 30px }
+    .page-title { margin-bottom: 40px }
+    .service-area,
+    .contact-area { padding-top: 40px }
+    .single-service { margin-bottom: 50px }
+    .footer-top {
+        margin-top: 40px;
+        padding: 40px 0;
+    }
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    .logo { overflow: hidden }
+    .logo h1,
+    .is-sticky .logo h1 {
+        float: left;
+        font-size: 25px;
+        margin: 10px 0;
+    }
+    .navbar-toggle {
+        border-color: #222;
+        float: none;
+        margin: 10px auto;
+    }
+    .navbar-toggle .icon-bar { background: none repeat scroll 0 0 #222 }
+    .navbar-header { float: right }
+    .mainmenu {
+        background: none repeat scroll 0 0 #fff;
+        position: relative;
+        z-index: 99;
+    }
+    .mainmenu ul.navbar-nav li a {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .slider-area,
+    .about-area,
+    .testimonial-area { padding: 40px 0 }
+    .slide-text { font-size: 14px }
+    .slide-text,
+    .about-photo { margin-bottom: 30px }
+    .page-title { margin-bottom: 40px }
+    .service-area,
+    .contact-area { padding-top: 40px }
+    .single-service { margin-bottom: 50px }
+    .footer-top {
+        margin-top: 40px;
+        padding: 40px 0;
+    }
+    .slide-text > h2,
+    .cta-text > h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .author-photo {
+        float: none;
+        height: auto;
+        margin-bottom: 20px;
+        margin-right: 0;
+        width: inherit;
+    }
+    .tes-control.left { left: 0 }
+    .tes-control {
+        bottom: inherit;
+        font-size: 40px;
+        line-height: 40px;
+        margin-top: 0;
+        position: relative;
+        top: inherit;
+    }
+    .tes-control.right {
+        margin-left: 20px;
+        right: 0;
+    }
+    .newsletter-subscribe input[type="email"] {
+        margin-bottom: 10px;
+        min-width: 100%;
+        width: 100%;
+    }
+    .copyright-text > p { text-align: center }
+    .scroll-to-up { margin-top: 0 }
+    .social-footer {
+        margin-bottom: 16px;
+        margin-top: 16px;
+        text-align: center;
+    }
+    .page-title h2::before,
+    .page-title h2::after { width: 40% }
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+}
