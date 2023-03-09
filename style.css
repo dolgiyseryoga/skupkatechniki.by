@@ -378,8 +378,7 @@ footer {
 .about-text p {
   line-height: 26px;
 }
-.about-text {
-}
+
 .about-list li i {
   margin-right: 7px;
 }
@@ -411,4 +410,28 @@ a:hover {
 .newsletter-subscribe input[type="submit"] {
   border-color: green;
   transition: 0.4s;
+}
+.num {
+  font-size: 12rem;
+  text-decoration: none;
+}
+
+.num:hover {
+  text-decoration: none;
+}
+.icon_img {
+  max-width: 35%;
+}
+.contact_p {
+  text-align: center;
+  line-height: 2.5;
+}
+.boss {
+  display: flex;
+  justify-content: space-between;
+}
+
+.number1 {
+  font-size: 20rem;
+  color: green;
 }
