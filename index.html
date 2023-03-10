@@ -449,6 +449,27 @@
 
 
 
+  <form class="calculate">
+    <p class="">Введите вес Вашей техники (кг)</p>
+        <input class="calculate_input" type="text" name="date"  id="weight" required="" placeholder="50" required="" />
+<div>
+    <input type="checkbox" id="load" name="mess" class="" />
+    <label class="custom-control-label" for="load">г.Витебск и Витебский район</label>
+</div>
+<div>
+    <input type="checkbox" id="del" name="mess" class="" />
+    <label class="custom-control-label" for="del">г.Новополоцк, г.Полоцк и Полоцкий район</label>
+</div>    
+<div>
+    <input type="checkbox" id="frag" name="mess" class="" />
+    <label class="custom-control-label" for="frag">Др. регионы и районы</label>
+</div>    
+    <div class="summa">Наши специалисты <br> заплатят Вам: <span id="out">0</span> <span class="rub">BYN</span></div>
+<div class="calculate_button">
+    <input type="button" name="calculation" id="btn" class="calculate_button_input" value="Расчитать" />
+    <input type="button" name="reset"  id="btn_reset" class="calculate_button_input" value="Очистить форму" >
+</div>
+</form>
 
 
 
@@ -460,50 +481,7 @@
 
 
 
-
-  <form class="text-center justify-content-center">
-    <div class="row mb-3 text-center">
-      <div class="form-group col-md-4 col-lg-offset-4 ">
-        <p class="badge badge-warning">Вес (кг)</p>
-        <input type="text" name="date" class="form-control " id="weight" required="" placeholder="50" required="" />
-      </div>
-
-    </div>
-    <div class="custom-control custom-checkbox row d-flex justify-content-center mb-3">
-      <div class="col-md-3" style="visibility: visible;">
-
-        <input type="checkbox" id="load" name="mess" class="custom-control-input" />
-
-        <label class="custom-control-label" for="load">г.Витебск и Вит.район</label>
-
-      </div>
-
-      <div class="col-md-3" style="visibility: visible;">
-
-        <input type="checkbox" id="del" name="mess" class="custom-control-input" />
-
-        <label class="custom-control-label" for="del">г.Новополоцк, г.Полоцк и Полоцкий район</label>
-
-      </div>
-
-      <div class="col-md-3" style="visibility: visible;">
-
-        <input type="checkbox" id="frag" name="mess" class="custom-control-input" />
-
-        <label class="custom-control-label" for="frag">Др. регионы и районы</label>
-
-      </div>
-
-      <div class="row col-12 mb-3"><span id="out">0.0</span> <span class="rub">BYN</span></div>
-      <div class="row">
-        <div class="col-md-2 col-12 col-lg-offset-5">
-          <input type="button" name="adress" id="btn" class="btn-block btn btn-primary" value="Расчитать" />
-        </div>
-      </div>
-
-    </div>
-  </form>
-
+  
 
 
 
@@ -555,7 +533,7 @@
   <script src="js/main.js"></script>
   <script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
   <script type="text/javascript" src="js/contact_me.js"></script>
-  <script type="text/javascript" src="js/calculater.js"></script>
+  <script type="text/javascript" src="js/calculate.js"></script>
 
 </body>
 

@@ -37,6 +37,7 @@ h6 {
 }
 body {
   font-family: "Open Sans", sans-serif;
+  
 }
 .logo {
   font-family: "Kaushan Script", cursive;
@@ -453,4 +454,43 @@ a:hover {
 }
 .p_font-number {
   font-size: 5rem;
+}
+
+/*calculator*/
+.calculate {
+  border: 5px solid green;
+  border-radius: 15px;
+  width: max-content;
+  padding: 1%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: flex-start;
+  font-family: "Open Sans", sans-serif;
+}
+.summa {
+  padding: 1% 0;
+}
+.calculate_input {
+  width: -webkit-fill-available;
+}
+.calculate_button_input {
+padding: 10px auto;
+background: #195A00;
+border: none;
+border-radius: 6px;
+font-family: "Open Sans", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 26px;
+color: #FFFFFF;
+
+}
+.calculate_button {
+  width: -webkit-fill-available;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
