@@ -426,6 +426,7 @@ a:hover {
   text-align: center;
   line-height: 2.5;
 }
+
 .boss {
   display: flex;
   justify-content: space-between;
@@ -434,4 +435,22 @@ a:hover {
 .number1 {
   font-size: 20rem;
   color: green;
+}
+.p_font {
+  font-size: 22px;
+  line-height: 2.5;
+}
+.-green {
+  color: green;
+}
+.boss_padding {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5%;
+}
+.p_font-litle {
+  line-height: 1.5;
+}
+.p_font-number {
+  font-size: 5rem;
 }
