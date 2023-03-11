@@ -416,7 +416,6 @@ a:hover {
   font-size: 12rem;
   text-decoration: none;
 }
-
 .num:hover {
   text-decoration: none;
 }
@@ -427,12 +426,10 @@ a:hover {
   text-align: center;
   line-height: 2.5;
 }
-
 .boss {
   display: flex;
   justify-content: space-between;
 }
-
 .number1 {
   font-size: 20rem;
   color: green;
@@ -455,18 +452,22 @@ a:hover {
 .p_font-number {
   font-size: 5rem;
 }
-
 /*calculator*/
 .calculate {
   border: 5px solid green;
   border-radius: 15px;
   width: max-content;
-  padding: 1%;
+  padding: 0.5%;
   display: flex;
   flex-direction: column;
   align-content: center;
   align-items: flex-start;
   font-family: "Open Sans", sans-serif;
+  position: sticky;
+  left: 1%;
+  bottom: 2%;
+  background-color: #fff;
+  display: none;
 }
 .summa {
   padding: 1% 0;
@@ -485,7 +486,6 @@ font-weight: 700;
 font-size: 14px;
 line-height: 26px;
 color: #FFFFFF;
-
 }
 .calculate_button {
   width: -webkit-fill-available;
@@ -493,4 +493,14 @@ color: #FFFFFF;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+}
+.-orange {
+  background-color: rgb(202, 99, 3);
+  transition: 0.4s;
+  border: none;
+}
+/**/
+.person_p {
+  margin-top: 1%;
+  font-size: 12px;
 }

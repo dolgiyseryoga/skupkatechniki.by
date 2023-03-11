@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="css/responsive.css" />
+  <link rel="icon" href="img/favicon.png" type="image/x-icon">
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -71,8 +72,10 @@
               использованию.
             </p>
             <a href="tel:7383" class="readmore">Позвонить с мобильного</a>
+            <input type="button" name="calculation" id="btn_Calc" class="readmore -orange" value="Расcчитать вознаграждение" />
           </div>
           <a href="tel:7383" class="num">7383</a>
+         
         </div>
 
         <div class="col-md-6">
@@ -372,7 +375,7 @@
         <div class="col-md-8 col-md-offset-2">
           <div class="page-title">
             <h2>
-              Оставьте <span>заявку</span> <i class="fa fa-heart-o"></i>
+              <span>Оставьте заявку на </span>вывоз бытовой техники<i class="fa fa-heart-o"></i>
             </h2>
             <p>Заполните форму и мы свяжемся с Вами в ближайшее время</p>
           </div>
@@ -403,7 +406,9 @@
                 <p class="help-block text-danger"></p>
               </div>
               <div id="success"></div>
-              <button type="submit" class="btn btn-custom btn-lg">Отправить сообщение</button>
+              <button type="submit" class="btn btn-custom btn-lg readmore">Отправить сообщение</button>
+              <br>
+              <p class="person_p">Нажимая кнопку "Отправить" вы автоматически соглашаетесь с политикой обработки персональных данных!</p>
             </form>
           </div>
         </div>
@@ -442,14 +447,7 @@
   </div>
 
 
-
-
-
-
-
-
-
-  <form class="calculate">
+  <form class="calculate" id="Calc_form">
     <p class="">Введите вес Вашей техники (кг)</p>
         <input class="calculate_input" type="text" name="date"  id="weight" required="" placeholder="50" required="" />
 <div>
@@ -466,26 +464,10 @@
 </div>    
     <div class="summa">Наши специалисты <br> заплатят Вам: <span id="out">0</span> <span class="rub">BYN</span></div>
 <div class="calculate_button">
-    <input type="button" name="calculation" id="btn" class="calculate_button_input" value="Расчитать" />
+    <input type="button" name="calculation" id="btn" class="calculate_button_input" value="Расcчитать" />
     <input type="button" name="reset"  id="btn_reset" class="calculate_button_input" value="Очистить форму" >
 </div>
 </form>
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
 
 
   <footer id="footer-copyright">

@@ -5,7 +5,8 @@ let load    = document.querySelector('#load');
 let del     = document.querySelector('#del');
 let frag    = document.querySelector('#frag');
 
-let btn_reset= document.querySelector('#btn_reset');
+let btn_reset = document.querySelector('#btn_reset');
+let btn_Calc = document.querySelector('#btn_Calc');
 
 let Vitebsk_price = 0.45;
 let Polotzk_price = 0.45;
@@ -45,3 +46,10 @@ btn_reset.onclick = function(){
     out.innerHTML = 0.0;
 }
    
+btn_Calc.onclick = function(){
+   if( document.getElementById('Calc_form').style.display!='block') {
+    document.getElementById('Calc_form').style.display='block';
+   } else {
+    document.getElementById('Calc_form').style.display='none';
+   }
+}

@@ -117,6 +117,7 @@
                             </li>
                         </ul>
                         <a href="tel:7383" class="readmore">Позвонить с мобильного</a>
+                        <input type="button" name="calculation" id="btn_Calc" class="readmore -orange" value="Расcчитать вознаграждение" />
 
                         <p> <br>Если у Вас еще остались вопросы,
                             звоните 7383 и наши специалисты ответят вам на любые оставшщиеся
@@ -204,7 +205,27 @@
 
     </div>
 
-
+    <form class="calculate" id="Calc_form">
+        <p class="">Введите вес Вашей техники (кг)</p>
+            <input class="calculate_input" type="text" name="date"  id="weight" required="" placeholder="50" required="" />
+    <div>
+        <input type="checkbox" id="load" name="mess" class="" />
+        <label class="custom-control-label" for="load">г.Витебск и Витебский район</label>
+    </div>
+    <div>
+        <input type="checkbox" id="del" name="mess" class="" />
+        <label class="custom-control-label" for="del">г.Новополоцк, г.Полоцк и Полоцкий район</label>
+    </div>    
+    <div>
+        <input type="checkbox" id="frag" name="mess" class="" />
+        <label class="custom-control-label" for="frag">Др. регионы и районы</label>
+    </div>    
+        <div class="summa">Наши специалисты <br> заплатят Вам: <span id="out">0</span> <span class="rub">BYN</span></div>
+    <div class="calculate_button">
+        <input type="button" name="calculation" id="btn" class="calculate_button_input" value="Расcчитать" />
+        <input type="button" name="reset"  id="btn_reset" class="calculate_button_input" value="Очистить форму" >
+    </div>
+    </form>
 
     <footer id="footer-copyright">
         <div class="container">
@@ -253,6 +274,7 @@
     <script src="js/main.js"></script>
     <script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
     <script type="text/javascript" src="js/contact_me.js"></script>
+    <script type="text/javascript" src="../js/calculate.js"></script>
 
 </body>
 
