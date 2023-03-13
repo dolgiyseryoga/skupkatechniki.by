@@ -37,7 +37,6 @@ h6 {
 }
 body {
   font-family: "Open Sans", sans-serif;
-  
 }
 .logo {
   font-family: "Kaushan Script", cursive;
@@ -415,6 +414,7 @@ a:hover {
 .num {
   font-size: 12rem;
   text-decoration: none;
+  line-height: 8rem;
 }
 .num:hover {
   text-decoration: none;
@@ -428,10 +428,10 @@ a:hover {
 }
 .boss {
   display: flex;
-  justify-content: space-between;
+  align-items: center;
 }
 .number1 {
-  font-size: 20rem;
+  font-size: 18rem;
   color: green;
 }
 .p_font {
@@ -451,6 +451,9 @@ a:hover {
 }
 .p_font-number {
   font-size: 5rem;
+}
+.p_font-number_head {
+  font-size: 3rem;
 }
 /*calculator*/
 .calculate {
@@ -476,16 +479,16 @@ a:hover {
   width: -webkit-fill-available;
 }
 .calculate_button_input {
-padding: 10px auto;
-background: #195A00;
-border: none;
-border-radius: 6px;
-font-family: "Open Sans", sans-serif;
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 26px;
-color: #FFFFFF;
+  padding: 10px auto;
+  background: #195a00;
+  border: none;
+  border-radius: 6px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 26px;
+  color: #ffffff;
 }
 .calculate_button {
   width: -webkit-fill-available;
@@ -503,4 +506,31 @@ color: #FFFFFF;
 .person_p {
   margin-top: 1%;
   font-size: 12px;
+}
+.radio {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 5%;
+}
+.radio_item {
+  width: 30%;
+}
+.legal_h2 {
+  padding: 3%;
+}
+.about-photo {
+  text-align: center;
+}
+.about-photo img {
+  max-width: 70%;
+  border-radius: 5%;
+}
+.radio-align {
+  justify-content: center;
+}
+.auto_img {
+  max-width: 40%;
 }
