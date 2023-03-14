@@ -551,7 +551,12 @@ a:hover {
 .auto_img {
   max-width: 40%;
 }
-
+.sub_input {
+  background: none repeat scroll 0 0 #fff;
+  border: medium none;
+  min-width: 150px;
+  padding: 15px;
+}
 @media (max-width: 600px) {
   .radio {
     flex-direction: column;

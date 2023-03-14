@@ -21,10 +21,9 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="logo">
-                        <h1 class=""><a href="../index.html">СкупкаТехники.бай</a></h1>
+                        <h1 class=""><a href="../index.php">СкупкаТехники.бай</a></h1>
                         <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                data-target=".navbar-collapse">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -38,12 +37,12 @@
                     <div class="mainmenu">
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="active"><a href="../index.html">Главная</a></li>
-                                <li><a href="../index.html#about-us">О нас</a></li>
-                                <li><a href="../index.html#our-services">Наши услуги</a></li>
-                                <li><a href="../pages/legal.html">Юр. лицам</a></li>
-                                <li><a href="../index.html#testimonials">Пункты приёма</a></li>
-                                <li><a href="contacts.html">Контакты</a></li>
+                                <li class="active"><a href="../index.php">Главная</a></li>
+                                <li><a href="../index.php#about-us">О нас</a></li>
+                                <li><a href="../index.php#our-services">Наши услуги</a></li>
+                                <li><a href="../pages/legal.php">Юр. лицам</a></li>
+                                <li><a href="../index.php#testimonials">Пункты приёма</a></li>
+                                <li><a href="contacts.php">Контакты</a></li>
                             </ul>
                         </div>
                     </div>

@@ -1,3 +1,6 @@
+<?php
+include('./subscribe/subscribe.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,10 +17,6 @@
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="css/responsive.css" />
   <link rel="icon" href="img/favicon.png" type="image/x-icon" />
-
-  <!--[если некорр.отображение в IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>-->
 </head>
 
 <body>
@@ -45,9 +44,9 @@
                 <li class="active"><a href="#home">Главная</a></li>
                 <li><a href="#about-us">О нас</a></li>
                 <li><a href="#our-services">Наши услуги</a></li>
-                <li><a href="./pages/legal.html">Юр. лицам</a></li>
+                <li><a href="./pages/legal.php">Юр. лицам</a></li>
                 <li><a href="#testimonials">Пункты приёма</a></li>
-                <li><a href="./pages/contacts.html">Контакты</a></li>
+                <li><a href="./pages/contacts.php">Контакты</a></li>
               </ul>
             </div>
           </div>
@@ -71,8 +70,7 @@
               использованию.
             </p>
             <a href="tel:7383" class="readmore">Позвонить с мобильного</a>
-            <input type="button" name="calculation" id="btn_Calc" class="readmore -orange"
-              value="Расcчитать вознаграждение" />
+            <input type="button" name="calculation" id="btn_Calc" class="readmore -orange" value="Расcчитать вознаграждение" />
           </div>
           <br>
           <p class="p_font-number_head">Единый номер:</p>
@@ -198,7 +196,7 @@
               постепенно выходит из строя. Выбрасывать такую технику на свалки
               запрещено.
             </p>
-            <a href="./pages/televizor.html" class="readmore">Узнать подробнее</a>
+            <a href="./pages/televizor.php" class="readmore">Узнать подробнее</a>
           </div>
         </div>
         <div class="col-md-4 col-sm-6">
@@ -212,7 +210,7 @@
               свалку. Однако такие действия отрицательно отражаются на
               окружающей среде.
             </p>
-            <a href="./pages/holod.html" class="readmore">Узнать подробнее</a>
+            <a href="./pages/holod.php" class="readmore">Узнать подробнее</a>
           </div>
         </div>
         <div class="col-md-4 col-sm-6">
@@ -226,7 +224,7 @@
               новую, многие задаются вопросом: куда деть эту тяжелую и
               объемную бытовую технику, уже не нужную в квартире?
             </p>
-            <a href="./pages/gaz.html" class="readmore">Узнать подробнее</a>
+            <a href="./pages/gaz.php" class="readmore">Узнать подробнее</a>
           </div>
         </div>
         <div class="col-md-4 col-sm-6">
@@ -240,7 +238,7 @@
               печи);котлы; газовые плиты и электроплиты; посудомоечные
               машины;пылесосы утюги; чайники.
             </p>
-            <a href="./pages/litl.html" class="readmore">Узнать подробнее</a>
+            <a href="./pages/litl.php" class="readmore">Узнать подробнее</a>
           </div>
         </div>
         <div class="col-md-4 col-sm-6">
@@ -254,7 +252,7 @@
               хорошее денежное вознаграждение за товар, который вам больше не
               надо в доме.
             </p>
-            <a href="./pages/wasch.html" class="readmore">Узнать подробнее</a>
+            <a href="./pages/wasch.php" class="readmore">Узнать подробнее</a>
           </div>
         </div>
         <div class="col-md-4 col-sm-6">
@@ -267,7 +265,7 @@
               Утилизировать необходимо любое оборудование. Требуют переработки
               мониторы, компьютеры, ноутбуки и планшеты и многое другое
             </p>
-            <a href="./pages/org.html" class="readmore">Узнать подробнее</a>
+            <a href="./pages/org.php" class="readmore">Узнать подробнее</a>
           </div>
         </div>
       </div>
@@ -364,7 +362,7 @@
       </div>
     </div>
   </div>
-
+  <!--
   <div id="contact" class="contact-area">
     <div class="container">
       <div class="row">
@@ -390,15 +388,13 @@
                 </div>
                 <div class="col-md-6">
                   <div class="form-group">
-                    <input type="email" id="email" class="form-control" placeholder="Адрес Вашей почты"
-                      required="required" />
+                    <input type="email" id="email" class="form-control" placeholder="Адрес Вашей почты" required="required" />
                     <p class="help-block text-danger"></p>
                   </div>
                 </div>
               </div>
               <div class="form-group">
-                <textarea name="message" id="message" class="form-control" rows="4" placeholder="Ваше сообщение"
-                  required></textarea>
+                <textarea name="message" id="message" class="form-control" rows="4" placeholder="Ваше сообщение" required></textarea>
                 <p class="help-block text-danger"></p>
               </div>
               <div id="success"></div>
@@ -416,7 +412,7 @@
       </div>
     </div>
   </div>
-
+-->
   <div class="footer-top">
     <div class="container">
       <div class="row">
@@ -436,15 +432,34 @@
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
           <div class="newsletter-subscribe">
-            <form action="">
-              <input type="email" placeholder="Введите Ваш электронный адрес" />
-              <input type="submit" value="Подписаться" />
+
+
+            <!--
+            <form action="../subscribe/subscribe.php" method="post">
+              <input class="sub_input" type="text" name="user_name" id="user_name" placeholder="Введите Ваше имя" />
+              <input type="text" name="email" id="email" placeholder="Введите Ваш электронный адрес" />
+              <button type="submit" name="submit_form" class="">Подписаться</button>
             </form>
+
+-->
+
+            <form action="../subscribe/subscribe.php" method="post">
+              <input type="text" name="user_name" id="user_name" class="" placeholder="Введите Ваше имя" />
+              <input type="text" name="email" id="email" class="" placeholder="Введите Ваш электронный адрес" />
+              <button type="submit" name="submit_form" class="">Подписаться</button>
+            </form>
+
+
           </div>
         </div>
       </div>
     </div>
   </div>
+
+
+
+
+
 
   <form class="calculate" id="Calc_form">
     <p class="">Введите вес Вашей техники (кг)</p>

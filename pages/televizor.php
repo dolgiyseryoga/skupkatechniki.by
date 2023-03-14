@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Сдать на утилизацию оргтехнику</title>
+    <title>Сдать телефизор в Витебске за деньги</title>
     <meta name=“description” content=“”>
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
@@ -16,15 +16,15 @@
 </head>
 
 <body>
-    <div class="header-area" id="org_ap">
+    <div class="header-area" id="televizor_ap">
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
                     <div class="logo">
-                        <h1 class=""><a href="../index.html">СкупкаТехники.бай</a></h1>
+                        <h1 class=""><a href="../index.php">СкупкаТехники.бай</a></h1>
+
                         <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                data-target=".navbar-collapse">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -38,12 +38,12 @@
                     <div class="mainmenu">
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="active"><a href="../index.html">Главная</a></li>
-                                <li><a href="../index.html#about-us">О нас</a></li>
-                                <li><a href="../index.html#our-services">Наши услуги</a></li>
-                                <li><a href="../pages/legal.html">Юр. лицам</a></li>
-                                <li><a href="../index.html#testimonials">Пункты приёма</a></li>
-                                <li><a href="../pages/contacts.html">Контакты</a></li>
+                                <li class="active"><a href="../index.php">Главная</a></li>
+                                <li><a href="../index.php#about-us">О нас</a></li>
+                                <li><a href="../index.php#our-services">Наши услуги</a></li>
+                                <li><a href="../pages/legal.php">Юр. лицам</a></li>
+                                <li><a href="../index.php#testimonials">Пункты приёма</a></li>
+                                <li><a href="../pages/contacts.php">Контакты</a></li>
                             </ul>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="page-title">
-                        <h2>Скупка оргтехники<span></span> <i class="fa fa-heart-o"></i></h2>
+                        <h2>Скупка телевизоров<span></span> <i class="fa fa-heart-o"></i></h2>
                         <p>
                             Компания «СкупкаТехники.бай» осуществляет скупку старой, сломанной и устаревшей техники по
                             территории всей Витебской области. Наши специалисты взвесят, быстро вывезут все по
@@ -70,7 +70,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/ORG.jpg" alt="org_tehnica" />
+                        <img src="../img/TEL.jpg" alt="televisor" />
                     </div>
                 </div>
 
@@ -78,47 +78,42 @@
                     <div class="about-text">
                         <h3>Мы даем лучшие цены <span>на выкуп б/у техники.</span></h3>
                         <p>
-                            Даже если ваша оргтехника вышла из строя и имеет солидные повреждения, это – не повод
-                            расстраиваться и выбрасывать ее на свалку, т. к. вы можете еще получить за нее неплохие
-                            деньги! <br>
-                            Компания «SkupkaTehniki.by» осуществляет скупку оргтехники на действительно
-                            выгодных для клиента условиях. Мы заберем технику в любом состоянии.
-                            <br>
+                            Если ваша телевизор безнадежно сломался
+                            или устарел, вы можете решить проблему в самые короткие сроки, воспользовавшись услугами
+                            скупки бытовой техники б/у в Витебске и регионах.
+                            Если у Вас еще остались вопросы,
+                            звоните 7383 и наши специалисты ответят вам на любые оставшщиеся
+                            вопросы. Смело обращайтесь за любой информацией.
                         </p>
-                        <p>Наши преимущества скупки б/у оргтехники:</p>
+                        <p>Преимущества очевидны:</p>
                         <ul class="about-list">
                             <li>
-                                <i class="fa fa-check"></i> <strong></strong> Вынесем Вашу оргтехнику прямо из
-                                офиса, квартиры или дома за
-                                несколько минут.
+                                <i class="fa fa-check"></i> <strong></strong> вы не просто избавляетесь от
+                                крупногабаритного мусора в доме, а получаете за него хорошие деньги!
                             </li>
                             <li>
-                                <i class="fa fa-check"></i> <strong></strong> Честная фиксированная цена за каждый
-                                килограмм (не в зависимости от года выпуска и технического состояния).
-                            </li>
-                            <li>
-                                <i class="fa fa-check"></i>
-                                <strong></strong> Отсутствие проблем. Вы звоните нам, специалисты взвешивают Вашу
-                                оргтехнику, и мы сразу забираем её. Принимаем все марки и модели техники,
-                                независимо от года выпуска и состояния.
+                                <i class="fa fa-check"></i> <strong></strong> уже на следующий день вы сможете
+                                купить новое оборудование, которое будет удовлетворять требованиям вашей семьи – наши
+                                мастера работают оперативно!
                             </li>
                             <li>
                                 <i class="fa fa-check"></i>
-                                <strong></strong> Оплата на месте.Прозрачные условия.
+                                <strong></strong> нет необходимости тратить большие деньги на сложный и
+                                дорогостоящий ремонт!
+                            </li>
+                            <li>
+                                <i class="fa fa-check"></i>
+                                <strong></strong> Честная фиксированная цена за каждый килограмм (не в зависимости от
+                                года выпуска и технического состояния)!
                             </li>
                         </ul>
                         <a href="tel:7383" class="readmore">Позвонить с мобильного</a>
-                        <input type="button" name="calculation" id="btn_Calc" class="readmore -orange"
-                            value="Расcчитать вознаграждение" />
-                        <p> <br>Если у Вас еще остались вопросы,
-                            звоните 7383 и наши специалисты ответят вам на любые оставшщиеся
-                            вопросы. Смело обращайтесь за любой информацией.</p>
+                        <input type="button" name="calculation" id="btn_Calc" class="readmore -orange" value="Расcчитать вознаграждение" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
 
     <p class="text-center p_font">
         <strong>Стоимость:</strong>
@@ -134,20 +129,16 @@
         (с проведением погрузо-разгрузочных работ)
     </p>
 
-
     <div class="boss boss_padding">
         <div class="col">
             <p class="author-name">
                 <strong class="-green">г. Витебск ул. Транспортная, 9</strong>
             </p>
             <p class="p_font-litle">
-
                 Время работы:
                 пн-пт 8:30-19:30;<br>
                 обед 12:00-12:30;<br>
                 работаем без выходных<br> <br>
-
-
                 Тел.: 8-0212-67-95-82<br>
                 Тел.: 8-029-2-352-352<br>
                 velcom Тел.: 8-029-1-152-352<br>
@@ -163,8 +154,6 @@
                 пн-пт 8:30-17:00;<br>
                 обед 12:00-12:30;<br>
                 выходные сб.- вс.<br> <br>
-
-
                 Тел.: 8-0212-67-95-82<br>
                 Тел.: 8-029-2-352-352<br>
                 velcom Тел.: 8-029-1-152-352<br>
@@ -181,7 +170,6 @@
                 обед 12:00-12:30;<br>
                 работаем без выходных<br>
                 <br>
-
                 Тел.: 8-0214-74-22-04<br>
                 Тел.: 8-029-2-352-352<br>
                 velcom Тел.: 8-029-1-152-352<br>
@@ -192,7 +180,6 @@
             <p class="p_font-number">Единый номер:</p>
             <h2 class="number1">7383</h2>
         </div>
-
     </div>
 
     <form class="calculate" id="Calc_form">
@@ -231,7 +218,7 @@
                 </div>
 
                 <div class="col-sm-2 text-center">
-                    <a class="scroll-to-up" href="#org_ap"><i class="fa fa-angle-double-up"></i></a>
+                    <a class="scroll-to-up" href="#televizor_ap"><i class="fa fa-angle-double-up"></i></a>
                 </div>
 
                 <div class="col-sm-5">

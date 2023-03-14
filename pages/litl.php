@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Сдать на утилизацию газовую плиту</title>
+    <title>Сдать мелкобытовую технику за деньги</title>
     <meta name=“description” content=“”>
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
@@ -16,16 +16,14 @@
 </head>
 
 <body>
-    <div class="header-area" id="gaz_ap">
+    <div class="header-area" id="litl_ap">
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
                     <div class="logo">
-                        <h1 class=""><a href="../index.html">СкупкаТехники.бай</a></h1>
-
+                        <h1 class=""><a href="../index.php">СкупкаТехники.бай</a></h1>
                         <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                data-target=".navbar-collapse">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -39,12 +37,12 @@
                     <div class="mainmenu">
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="active"><a href="../index.html">Главная</a></li>
-                                <li><a href="../index.html#about-us">О нас</a></li>
-                                <li><a href="../index.html#our-services">Наши услуги</a></li>
-                                <li><a href="../pages/legal.html">Юр. лицам</a></li>
-                                <li><a href="../index.html#testimonials">Пункты приёма</a></li>
-                                <li><a href="../pages/contacts.html">Контакты</a></li>
+                                <li class="active"><a href="../index.php">Главная</a></li>
+                                <li><a href="../index.php#about-us">О нас</a></li>
+                                <li><a href="../index.php#our-services">Наши услуги</a></li>
+                                <li><a href="../pages/legal.php">Юр. лицам</a></li>
+                                <li><a href="../index.php#testimonials">Пункты приёма</a></li>
+                                <li><a href="../pages/contacts.php">Контакты</a></li>
                             </ul>
                         </div>
                     </div>
@@ -58,7 +56,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="page-title">
-                        <h2>Скупка газовых плит<span></span> <i class="fa fa-heart-o"></i></h2>
+                        <h2>Скупка мелкой бытовой техники<span></span> <i class="fa fa-heart-o"></i></h2>
                         <p>
                             Компания «СкупкаТехники.бай» осуществляет скупку старой, сломанной и устаревшей техники по
                             территории всей Витебской области. Наши специалисты взвесят, быстро вывезут все по
@@ -71,7 +69,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/GAZ.jpg" alt="gazovaya_plita" />
+                        <img src="../img/LITL.jpg" alt="litl" />
                     </div>
                 </div>
 
@@ -79,19 +77,19 @@
                     <div class="about-text">
                         <h3>Мы даем лучшие цены <span>на выкуп б/у техники.</span></h3>
                         <p>
-                            Даже если ваша газовая плита вышла из строя и имеет солидные повреждения, это – не повод
-                            расстраиваться и выбрасывать ее на свалку, поскольку вы можете еще получить за нее неплохие
-                            деньги! <br>
-                            Компания «SkupkaTehniki.by» осуществляет скупку газовых плит на действительно
-                            выгодных для клиента условиях. Мы заберем технику в любом состоянии.
+                            Компания «СкупкаТехники.бай» работает уже более 10 лет в данной сфере рынка и
+                            зарекомендовала
+                            себя с лучшей стороны. Мы предлагаем хорошие денежные вознаграждения
+                            на ненужную мелкую бытовую технику. Скупка и утилизация бытовой техники за деньги – основная
+                            наша
+                            специализация.
                             <br>
                         </p>
-                        <p>Наши преимущества скупки газовых плит б/у</p>
+                        <p>Наши преимущества скупки мелкой бытовой техники</p>
                         <ul class="about-list">
                             <li>
-                                <i class="fa fa-check"></i> <strong></strong> Вынесем Вашу газовую плиту прямо из
-                                квартиры или дома за
-                                несколько минут.
+                                <i class="fa fa-check"></i> <strong></strong> Выгодная скупка любого электронного
+                                оборудования, которое включается в розетку.
                             </li>
                             <li>
                                 <i class="fa fa-check"></i> <strong></strong> Честная фиксированная цена за каждый
@@ -109,8 +107,7 @@
                             </li>
                         </ul>
                         <a href="tel:7383" class="readmore">Позвонить с мобильного</a>
-                        <input type="button" name="calculation" id="btn_Calc" class="readmore -orange"
-                            value="Расcчитать вознаграждение" />
+                        <input type="button" name="calculation" id="btn_Calc" class="readmore -orange" value="Расcчитать вознаграждение" />
                         <p> <br>Если у Вас еще остались вопросы,
                             звоните 7383 и наши специалисты ответят вам на любые оставшщиеся
                             вопросы. Смело обращайтесь за любой информацией.</p>
@@ -191,6 +188,7 @@
         </div>
         <div class="col">
             <p class="p_font-number">Единый номер:</p>
+
             <h2 class="number1">7383</h2>
         </div>
 
@@ -231,9 +229,8 @@
                     </div>
                 </div>
                 <div class="col-sm-2 text-center">
-                    <a class="scroll-to-up" href="#gaz_ap"><i class="fa fa-angle-double-up"></i></a>
+                    <a class="scroll-to-up" href="#litl_ap"><i class="fa fa-angle-double-up"></i></a>
                 </div>
-
                 <div class="col-sm-5">
                     <div class="social-footer text-right">
                         <a href="https://www.instagram.com/belvt_iregion/"><i class="fa fa-instagram"></i></a>

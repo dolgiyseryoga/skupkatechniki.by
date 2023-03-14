@@ -21,10 +21,9 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="logo">
-                        <h1 class=""><a href="../index.html">СкупкаТехники.бай</a></h1>
+                        <h1 class=""><a href="../index.php">СкупкаТехники.бай</a></h1>
                         <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                data-target=".navbar-collapse">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -38,12 +37,12 @@
                     <div class="mainmenu">
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav navbar-right">
-                                <li class="active"><a href="../index.html">Главная</a></li>
-                                <li><a href="../index.html#about-us">О нас</a></li>
-                                <li><a href="../index.html#our-services">Наши услуги</a></li>
-                                <li><a href="../pages/legal.html">Юр. лицам</a></li>
-                                <li><a href="../index.html#testimonials">Пункты приёма</a></li>
-                                <li><a href="contacts.html">Контакты</a></li>
+                                <li class="active"><a href="../index.php">Главная</a></li>
+                                <li><a href="../index.php#about-us">О нас</a></li>
+                                <li><a href="../index.php#our-services">Наши услуги</a></li>
+                                <li><a href="../pages/legal.php">Юр. лицам</a></li>
+                                <li><a href="../index.php#testimonials">Пункты приёма</a></li>
+                                <li><a href="contacts.php">Контакты</a></li>
                             </ul>
                         </div>
                     </div>
@@ -57,8 +56,7 @@
             <div class="row">
                 <div class="col-md-12 col-md-offset-0">
                     <div class="page-title">
-                        <h2>Услуги по переработки отходов <br>электронного и электрического оборудования<span></span> <i
-                                class="fa fa-heart-o"></i></h2>
+                        <h2>Услуги по переработки отходов <br>электронного и электрического оборудования<span></span> <i class="fa fa-heart-o"></i></h2>
                         <p> Мы переработаем отходы от вашего электронного оборудования и сдадим драгметаллы в
                             <strong>Госфонд
                                 Республики Беларусь</strong> с предоставлением необходимого пакета документов, которые
@@ -138,8 +136,7 @@
                     <div class="row">
                         <div class="col-md-12 col-md-offset-0">
                             <div class="page-title">
-                                <h2>Услуги по приёму отработанных ртутьсодержащих ламп<span></span> <i
-                                        class="fa fa-heart-o"></i></h2>
+                                <h2>Услуги по приёму отработанных ртутьсодержащих ламп<span></span> <i class="fa fa-heart-o"></i></h2>
                                 <p> Мы принимаем в собственность отработанные ртутьсодержащие лампы с последующей
                                     передачей на обезвреживание на специализированное предприятие в
                                     Республики Беларусь с предоставлением необходимого пакета документов,
@@ -244,8 +241,7 @@
                         </div>
                     </div>
 
-                    <div class="legal_button"><a href="../docs/obrazec_lamp.docx" target="_blank"
-                            class="readmore text-center">Скачать
+                    <div class="legal_button"><a href="../docs/obrazec_lamp.docx" target="_blank" class="readmore text-center">Скачать
                             образец заявки <br>на
                             сдачу ртутных
                             отходов</a></div>
