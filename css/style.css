@@ -1,3 +1,6 @@
+::-webkit-scrollbar {
+  width: 0;
+}
 .floatleft {
   float: left;
 }
@@ -430,6 +433,17 @@ a:hover {
   display: flex;
   align-items: center;
 }
+.boss_padding {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5%;
+  justify-content: center;
+  gap: 3%;
+}
+.boss_auto {
+  display: flex;
+  justify-content: center;
+}
 .number1 {
   font-size: 18rem;
   color: green;
@@ -440,11 +454,6 @@ a:hover {
 }
 .-green {
   color: green;
-}
-.boss_padding {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 5%;
 }
 .p_font-litle {
   line-height: 1.5;
@@ -511,7 +520,7 @@ a:hover {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: flex-start;
   text-align: center;
   padding-bottom: 5%;
 }
@@ -521,8 +530,16 @@ a:hover {
 .legal_h2 {
   padding: 3%;
 }
+.legal_h2-size {
+  font-size: 2rem;
+  text-align: center;
+}
 .about-photo {
   text-align: center;
+}
+.legal_button {
+  display: flex;
+  justify-content: center;
 }
 .about-photo img {
   max-width: 70%;
@@ -533,4 +550,28 @@ a:hover {
 }
 .auto_img {
   max-width: 40%;
+}
+
+@media (max-width: 600px) {
+  .radio {
+    flex-direction: column;
+    align-items: center;
+    gap: 5%;
+  }
+}
+@media (max-width: 525px) {
+  .radio-align {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (max-width: 415px) {
+  .number1 {
+    font-size: 14rem;
+  }
+}
+@media (max-width: 325px) {
+  .number1 {
+    font-size: 10rem;
+  }
 }
