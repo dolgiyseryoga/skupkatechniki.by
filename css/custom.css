@@ -1,0 +1,12 @@
+.controls {
+  display: flex;
+  gap: 3%;
+}
+@media (max-width: 450px) {
+  .controls {
+    flex-wrap: wrap;
+  }
+  .form-control_margin {
+    margin-bottom: 3%;
+  }
+}

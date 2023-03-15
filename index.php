@@ -16,6 +16,7 @@ include('./subscribe/subscribe.php');
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="css/responsive.css" />
+  <link rel="stylesheet" href="css/custom.css" />
   <link rel="icon" href="img/favicon.png" type="image/x-icon" />
 </head>
 
@@ -362,7 +363,7 @@ include('./subscribe/subscribe.php');
       </div>
     </div>
   </div>
-  <!--
+
   <div id="contact" class="contact-area">
     <div class="container">
       <div class="row">
@@ -412,8 +413,8 @@ include('./subscribe/subscribe.php');
       </div>
     </div>
   </div>
--->
-  <div class="footer-top">
+
+  <div class="footer-top" >
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
@@ -432,34 +433,18 @@ include('./subscribe/subscribe.php');
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
           <div class="newsletter-subscribe">
-
-
-            <!--
-            <form action="../subscribe/subscribe.php" method="post">
-              <input class="sub_input" type="text" name="user_name" id="user_name" placeholder="Введите Ваше имя" />
-              <input type="text" name="email" id="email" placeholder="Введите Ваш электронный адрес" />
-              <button type="submit" name="submit_form" class="">Подписаться</button>
+            <form action="../subscribe/subscribe.php" method="post" class="subscribe_form">
+              <div class="controls">
+                <input class="form-control form-control_margin" type="text" name="user_name" id="user_name" placeholder="Введите Ваше имя" />
+                <input class="form-control" type="text" name="email" id="email" placeholder="Введите Ваш электронный адрес" />
+              </div>
+              <button class="btn btn-custom btn-lg readmore" type="submit" id="resset_form" name="submit_form" class="">Подписаться</button>
             </form>
-
--->
-
-            <form action="../subscribe/subscribe.php" method="post">
-              <input type="text" name="user_name" id="user_name" class="" placeholder="Введите Ваше имя" />
-              <input type="text" name="email" id="email" class="" placeholder="Введите Ваш электронный адрес" />
-              <button type="submit" name="submit_form" class="">Подписаться</button>
-            </form>
-
-
           </div>
         </div>
       </div>
     </div>
   </div>
-
-
-
-
-
 
   <form class="calculate" id="Calc_form">
     <p class="">Введите вес Вашей техники (кг)</p>
@@ -515,7 +500,7 @@ include('./subscribe/subscribe.php');
     </div>
   </footer>
 
-  <script src="https://code.jquery.com/jquery.min.js"></script>
+  <!-- <script src="https://code.jquery.com/jquery.min.js"></script> -->
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="js/jquery.sticky.js"></script>
   <script src="js/jquery.easing.1.3.min.js"></script>

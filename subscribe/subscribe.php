@@ -37,8 +37,7 @@ if (isset($_POST['submit_form'])) {
 
         // Метод execute() возвращает TRUE, если он выполнен успешно, и FALSE, если нет. И выводим сообщение
         if ($my_Insert_Statement->execute()) {
-            print('ок');
-            /*header('Location: ../subscribe/sub_ok.php');*/
+            header('Location: /pages/ok.php');
         } else {
             echo "Невозможно подписаться, проверьте введенные данные";
         }
