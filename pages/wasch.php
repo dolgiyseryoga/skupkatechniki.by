@@ -21,7 +21,7 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="logo">
-                        <h1 class=""><a href="../index.php">СкупкаТехники.бай</a></h1>
+                        <h1 class=""><a href="../index.php">СкупкаTехники</a></h1>
 
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">

@@ -10,7 +10,7 @@ let btn_Calc = document.querySelector('#btn_Calc');
 
 let Vitebsk_price = 0.45;
 let Polotzk_price = 0.45;
-let Region_price = 0.2;
+let Region_price = 0.25;
 
 btn.onclick = function(){
 
