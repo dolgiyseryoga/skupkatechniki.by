@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/responsive.css" />
+    <link rel="icon" href="img/favicon.png" type="image/x-icon" />
 </head>
 
 <body>
@@ -75,7 +76,7 @@
                     <div class="copyright-text">
                         <p>
                             Унитарное предприятие «БелВТИ-регион» УНП 300083812<br>| © 2023 Все права защищены |
-                            <i class="fa fa-heart"></i> <a href="№" target="_blank"></a>
+                            <a href="№" target="_blank"></a>
                         </p>
                     </div>
                 </div>

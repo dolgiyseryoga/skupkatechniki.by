@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/responsive.css" />
+    <link rel="stylesheet" href="../css/custom.css" />
+    <link rel="icon" href="img/favicon.png" type="image/x-icon" />
 </head>
 
 <body>
@@ -124,6 +126,39 @@
         </div>
     </div>
 
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="page-title">
+                        <h2>
+                            <span>Подписывайтесь на наши </span><br />новости и акции
+                            <i class="fa fa-heart-o"></i>
+                        </h2>
+                        <p>
+                            Подписывайтесь на нас, чтобы быть в курсе последних событий,
+                            акций и самых выгодных предложений!
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="newsletter-subscribe">
+                        <form action="../subscribe/subscribe.php" method="post" class="subscribe_form">
+                            <div class="controls">
+                                <input class="form-control form-control_margin" type="text" name="user_name" id="user_name" placeholder="Введите Ваше имя" />
+                                <input class="form-control" type="text" name="email" id="email" placeholder="Введите Ваш электронный адрес" />
+                            </div>
+                            <button class="btn btn-custom btn-lg readmore" type="submit" id="resset_form" name="submit_form" class="">Подписаться</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <footer id="footer-copyright">
         <div class="container">
             <div class="row">
@@ -131,7 +166,7 @@
                     <div class="copyright-text">
                         <p>
                             Унитарное предприятие «БелВТИ-регион» УНП 300083812<br>| © 2023 Все права защищены |
-                            <i class="fa fa-heart"></i> <a href="№" target="_blank"></a>
+                            <a href="№" target="_blank"></a>
                         </p>
                     </div>
                 </div>
