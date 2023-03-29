@@ -5,8 +5,10 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Контакты сдача техники</title>
-    <meta name=“description” content=“”>
+    <title>Контакты и реквизиты унитарного предприятия по скупке техники</title>
+    <meta name="description" content="Наше предприятие занимается скупкой старой бытовой техники! Работаем с физическими и юридическими лицами! Перерабатываем отходы электронного и электрического оборудования">
+    <meta name="keywords" content="директор , бухгалтерия , перерабатывающе предприятие, переработка драгметаллов">
+    <link rel="canonical" href="https://skupkatehniki.by/pages/contacts.php">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
@@ -75,7 +77,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/log.png" alt="eco" />
+                        <img src="../img/log.png" width="auto" height="auto" alt="eco" />
                     </div>
                 </div>
 

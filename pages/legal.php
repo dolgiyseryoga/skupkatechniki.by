@@ -5,8 +5,10 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Контакты сдача техники</title>
-    <meta name=“description” content=“”>
+    <title>Переработка отходов от электронного оборудования. Приём отработанных ртутьсодержащих ламп</title>
+    <meta name="description" content="Переработка отходов от электронного оборудования! Принимаем на утилизацию отходы отработанных ртутьсодержащих ламп в Витебске и регионах. Даём техническое заключение!">
+    <meta name="keywords" content="переработка , приём отработанных ламп , ртутьсодержащих ламп , драгметаллы">
+    <link rel="canonical" href="https://skupkatehniki.by/pages/legal.php/">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
@@ -75,7 +77,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/radio.jpeg" alt="radio_components" />
+                        <img src="../img/radio.jpeg" width="auto" height="auto" alt="radio_components" />
                     </div>
                 </div>
 
@@ -107,27 +109,27 @@
             <h2 class="text-center legal_h2">ЮРИДИЧЕСКИМ ЛИЦАМ И ГОС. УЧРЕЖДЕНИЯМ</h2>
             <div class="radio">
                 <div class="radio_item">
-                    <img width="100px" src="../img/scale.png">
+                    <img width="100px" height="auto" src="../img/scale.png" alt="zakon">
                     <p>Услуги утилизации в соответствии с законодательством Республики Беларусь</p>
                 </div>
                 <div class="radio_item">
-                    <img width="100px" src="../img/doc.png">
+                    <img width="100px" height="auto" src="../img/doc.png" alt="document">
                     <p>Выдаём полный пакет необходимых документов</p>
                 </div>
                 <div class="radio_item">
-                    <img width="100px" src="../img/certificate.png">
+                    <img width="100px" height="auto" src="../img/certificate.png" alt="sertificat">
                     <p>Имеем необходимые лицензии и сертификаты</p>
                 </div>
                 <div class="radio_item">
-                    <img width="100px" src="../img/auto.png">
+                    <img width="100px" height="auto" src="../img/auto.png" alt="orgteh">
                     <p>Проводим утилизацию компьютерной техники и оргтехники в любых объёмах</p>
                 </div>
                 <div class="radio_item">
-                    <img width="100px" src="../img/time.png">
+                    <img width="100px" height="auto" src="../img/time.png" alt="speed">
                     <p>Выполняем все работы в кротчайшие сроки</p>
                 </div>
                 <div class="radio_item">
-                    <img width="100px" src="../img/expert.png">
+                    <img width="100px" height="auto" src="../img/expert.png" alt="teh">
                     <p>Даём техническое заключение для списания техники</p>
                 </div>
             </div>
@@ -153,7 +155,7 @@
                     <div class="row">
                         <div class="col-md-7">
                             <div class="about-photo">
-                                <img src="../img/lamp.jpg" alt="lamps" />
+                                <img src="../img/lamp.jpg" width="auto" height="auto" alt="lamps" />
                             </div>
                         </div>
 
@@ -222,21 +224,21 @@
                     <h2 class="text-center legal_h2">Виды принимаемых ртутьсодержащих отходов</h2>
                     <div class="radio radio-align">
                         <div class="radio_item">
-                            <img width="100px" src="../img/lum.jpg" alt="lum">
+                            <img width="100px" height="auto" src="../img/lum.jpg" alt="lum">
                             <p>Люминисцентные трубки отработанные <br>(<strong>код отхода 3532604</strong>)</p>
                         </div>
                         <div class="radio_item">
-                            <img width="100px" src="../img/drl.jpg" alt="drl">
+                            <img width="100px" height="auto" src="../img/drl.jpg" alt="drl">
                             <p>Ртутные лампы отработанные <br>(<strong>код отхода 3532603</strong>)</p>
                         </div>
                         <div class="radio_item">
-                            <img width="100px" src="../img/komp_lamp.jpg" alt="komp_lamp">
+                            <img width="100px" height="auto" src="../img/komp_lamp.jpg" alt="komp_lamp">
                             <p>Компактные люминесцентные лампы (энергосберегающие) отработанные <br>(
                                 <strong>код отхода 3532607</strong>)
                             </p>
                         </div>
                         <div class="radio_item">
-                            <img width="100px" src="../img/termo.jpg" alt="termometr">
+                            <img width="100px" height="auto" src="../img/termo.jpg" alt="termometr">
                             <p>Ртутные термометры отработанные <br>( <strong>код отхода 3532606</strong>)</p>
                         </div>
                     </div>
@@ -250,7 +252,7 @@
                         <h3 class="text-center -green"> ВСЕ ВИДЫ УСЛУГ ПРОИЗВОДЯТСЯ НАШИМ ТРАНСПОРТОМ ЗА НАШ СЧЁТ!!!
                         </h3>
                         <div class="boss_auto">
-                            <img class="auto_img" src="../img/auto.png" alt="automobil">
+                            <img class="auto_img" src="../img/auto.png" width="auto" height="auto" alt="automobil">
                         </div>
 
                         <div class="col">

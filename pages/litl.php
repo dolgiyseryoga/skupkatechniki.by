@@ -5,8 +5,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Сдать мелкобытовую технику за деньги</title>
-    <meta name=“description” content=“”>
+    <title>Скупка мелкогабаритной техники в Витебске и других регионах!</title>
+    <meta name="description" content="Купим Вашу ненужную технику в Витебске и регионах. Деньги сразу на месте! Платим наличными! Хотите выгодно сдать кухонную технику? Тогда звоните нам на номер 7383!">
+    <link rel="canonical" href="https://skupkatehniki.by/pages/litl.php">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
@@ -70,7 +71,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/LITL.jpg" alt="litl" />
+                        <img src="../img/LITL.jpg" width="auto" height="auto" alt="litl" />
                     </div>
                 </div>
 
@@ -124,7 +125,7 @@
         кг(сложно-бытовой техники)
         <br>
         При вывозе нашим транспортом по предварительной заявке: - <strong class="-green">0,25 копеек </strong> (0 руб.
-        20
+        25
         копеек) за 1
         кг
         (погрузо-разгрузочные работы - БЕСПЛАТНО!)

@@ -5,8 +5,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Сдать телефизор в Витебске за деньги</title>
-    <meta name=“description” content=“”>
+    <title>Скупка телевизоров в Витебске. Платим Вам деньги за телевизор!</title>
+    <meta name="description" content="Покупаем ваш ненужный телевизор в Витебске и регионах. Деньги сразу на месте! Платим наличными! Хотите продать телевизор? Тогда звоните нам на номер 7383!">
+    <link rel="canonical" href="https://skupkatehniki.by/pages/televizor.php">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
@@ -71,7 +72,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/TEL.jpg" alt="televisor" />
+                        <img src="../img/TEL.jpg" width="auto" height="auto" alt="televisor" />
                     </div>
                 </div>
 
@@ -119,14 +120,12 @@
     <p class="text-center p_font">
         <strong>Стоимость:</strong>
         <br>
-        При самостоятельной доставке в пункты приёма: - <strong class="-green">0,50 копеек </strong> (0 руб. 50 копеек)
-        за 1
+        При самостоятельной доставке в пункты приёма: - <strong class="-green">0,50 копеек </strong> (0 руб. 50 копеек) за 1
         кг(сложно-бытовой техники)
         <br>
         При вывозе нашим транспортом по предварительной заявке: - <strong class="-green">0,25 копеек </strong> (0 руб.
-        20
-        копеек) за 1
-        кг
+        25
+        копеек) за 1 кг
         (погрузо-разгрузочные работы - БЕСПЛАТНО!)
     </p>
 

@@ -5,8 +5,10 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Скупка техники в Витебске</title>
-  <meta name=“description” content=“”>
+  <title>Скупка бытовой техники в Витебске. Платим деньги за бытовую технику!</title>
+  <meta name="description" content="Скупка техники! Покупаем старую бытовую технику в Витебске и регионах. Покупаем вашу технику за деньги! Платим наличными на месте! Утилизация техники! Пункты приёма.">
+  <meta name="keywords" content="скупка, переработка, витебск , техника , бытовая">
+  <link rel="canonical" href="https://skupkatehniki.by/">
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
   <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
@@ -76,7 +78,7 @@
 
         <div class="col-md-6">
           <div class="slide-image">
-            <img class="img-responsive" src="img/slider.jpg" alt="slider" />
+            <img class="img-responsive" src="img/slider.jpg" width="auto" height="auto" alt="slider" />
           </div>
         </div>
       </div>
@@ -102,7 +104,7 @@
       <div class="row">
         <div class="col-md-7">
           <div class="about-photo">
-            <img src="img/about.png" alt="auto" />
+            <img src="img/about.png" width="auto" height="auto" alt="auto" />
           </div>
         </div>
 
@@ -180,7 +182,7 @@
         <div class="col-md-4 col-sm-6">
           <div class="single-service">
             <div class="">
-              <i class=""><img class="icon_img" src="img/tel.png" alt="televizor" /></i>
+              <i class=""><img class="icon_img" src="img/tel.png" width="auto" height="auto" alt="televizor" /></i>
             </div>
             <h2>Скупка телевизоров</h2>
             <p>
@@ -194,7 +196,7 @@
         <div class="col-md-4 col-sm-6">
           <div class="single-service">
             <div class="">
-              <i class=""><img class="icon_img" src="img/hol.png" alt="fridge" /></i>
+              <i class=""><img class="icon_img" src="img/hol.png" width="auto" height="auto" alt="fridge" /></i>
             </div>
             <h2>Скупка холодильников</h2>
             <p>
@@ -208,7 +210,7 @@
         <div class="col-md-4 col-sm-6">
           <div class="single-service">
             <div class="">
-              <i class=""><img class="icon_img" src="img/gaz.png" alt="gaz" /></i>
+              <i class=""><img class="icon_img" src="img/gaz.png" width="auto" height="auto" alt="gaz" /></i>
             </div>
             <h2>Скупка газовых плит</h2>
             <p>
@@ -221,7 +223,7 @@
         <div class="col-md-4 col-sm-6">
           <div class="single-service">
             <div class="">
-              <i class=""><img class="icon_img" src="img/mix.png" alt="technique" /></i>
+              <i class=""><img class="icon_img" src="img/mix.png" width="auto" height="auto" alt="technique" /></i>
             </div>
             <h2>Скупка мелкой бытовой техники</h2>
             <p>
@@ -234,7 +236,7 @@
         <div class="col-md-4 col-sm-6">
           <div class="single-service">
             <div class="">
-              <i class=""><img class="icon_img" src="img/wasch.png" alt="wasch" /></i>
+              <i class=""><img class="icon_img" src="img/wasch.png" width="auto" height="auto" alt="wasch" /></i>
             </div>
             <h2>Скупка стиральных машинок</h2>
             <p>
@@ -247,7 +249,7 @@
         <div class="col-md-4 col-sm-6">
           <div class="single-service">
             <div class="">
-              <i class=""><img class="icon_img" src="img/print.png" alt="printer" /></i>
+              <i class=""><img class="icon_img" src="img/print.png" width="auto" height="auto" alt="printer" /></i>
             </div>
             <h2>Скупка оргтехники</h2>
             <p>
@@ -283,7 +285,7 @@
             <div class="carousel-inner" role="listbox">
               <div class="item active">
                 <div class="single-testimonial">
-                  <img src="img/trans.jpg" alt="punkt_transportnaya" class="author-photo" />
+                  <img src="img/trans.jpg" alt="punkt_transportnaya" width="auto" height="auto" class="author-photo" />
                   <p>
                     Время работы: пн-пт 8:30-19:30;<br />
                     обед 12:00-12:30;<br />
@@ -302,7 +304,7 @@
               </div>
               <div class="item">
                 <div class="single-testimonial">
-                  <img src="img/beschenkovichi.jpg" alt="punkt_beschenkov" class="author-photo" />
+                  <img src="img/beschenkovichi.jpg" alt="punkt_beschenkov" width="auto" height="auto" class="author-photo" />
                   <p>
                     Время работы: пн-пт 8:30-17:00;<br />
                     обед 12:00-12:30;<br />
@@ -321,7 +323,7 @@
               </div>
               <div class="item">
                 <div class="single-testimonial">
-                  <img src="img/pol.jpg" alt="punkt_kupala" class="author-photo" />
+                  <img src="img/pol.jpg" alt="punkt_kupala" width="auto" height="auto" class="author-photo" />
                   <p>
                     Время работы: пн-вс 8:30-19:30;<br />
                     обед 12:00-12:30;<br />
@@ -341,10 +343,10 @@
             </div>
 
             <a class="left tes-control" href="#testimonial-list" role="button" data-slide="prev">
-              <i class="fa fa-angle-left"></i>
+              <i class="fa fa-angle-left">.</i>
             </a>
             <a class="right tes-control" href="#testimonial-list" role="button" data-slide="next">
-              <i class="fa fa-angle-right"></i>
+              <i class="fa fa-angle-right">.</i>
             </a>
           </div>
         </div>
@@ -436,7 +438,7 @@
           <div class="copyright-text">
             <p>
               Унитарное предприятие «БелВТИ-регион» УНП 300083812<br>| © 2023 Все права защищены |
-              <a href="№" target="_blank"></a>
+              <a href="#" target="_blank"></a>
             </p>
           </div>
         </div>

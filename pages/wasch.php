@@ -5,8 +5,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Скукпа стиральных машин за наличные</title>
-    <meta name=“description” content=“”>
+    <title>Скупка стиральных машин в Витебске. Платим за каждый килограмм!</title>
+    <meta name="description" content="Купим Вашу стиральную машину в Витебске и регионах. Деньги сразу на месте! Платим наличными! Хотите выгодно сдать стиральную машину? Тогда звоните нам на номер 7383!">
+    <link rel="canonical" href="https://skupkatehniki.by/pages/wasch.php">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
@@ -71,7 +72,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/Wasch_litle.png" alt="wasch_maschin" />
+                        <img src="../img/Wasch_litle.png" width="auto" height="auto" alt="wasch_maschin" />
                     </div>
                 </div>
 
@@ -121,15 +122,13 @@
     <p class="text-center p_font">
         <strong>Стоимость:</strong>
         <br>
-        При самостоятельной доставке в пункты приёма: - <strong class="-green">0,50 копеек </strong> (0 руб. 50 копеек)
-        за 1
-        кг(сложно-бытовой техники)
+        При самостоятельной доставке в пункты приёма: - <strong class="-green">0,50 копеек </strong> (0 руб. 50 копеек) за 1
+        кг (сложно-бытовой техники)
         <br>
         При вывозе нашим транспортом по предварительной заявке: - <strong class="-green">0,25 копеек </strong> (0 руб.
-        20
+        25
         копеек) за 1
-        кг
-        (погрузо-разгрузочные работы - БЕСПЛАТНО!)
+        кг (погрузо-разгрузочные работы - БЕСПЛАТНО!)
     </p>
 
     <div class="boss boss_padding">
@@ -143,7 +142,6 @@
                 пн-пт 8:30-19:30;<br>
                 обед 12:00-12:30;<br>
                 работаем без выходных<br> <br>
-
 
                 Тел.: 8-0212-67-95-82<br>
                 Тел.: 8-029-2-352-352<br>

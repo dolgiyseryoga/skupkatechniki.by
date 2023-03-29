@@ -67,7 +67,7 @@ header('Refresh: 5; URL=http://skupkatehniki.by/');
                         </p>
                         <div class="col-md-12">
                             <div class="about-photo">
-                                <img src="../img/loop.jpg" alt="loop" />
+                                <img src="../img/loop.jpg" width="auto" height="auto" alt="loop" />
                             </div>
                         </div>
                     </div>

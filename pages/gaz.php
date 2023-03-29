@@ -5,8 +5,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Сдать на утилизацию газовую плиту</title>
-    <meta name=“description” content=“”>
+    <title>Сдать газовую плиту в Витебске и других регионах очень выгодно!</title>
+    <meta name="description" content="Купим Вашу старую газовую плиту в Витебске и регионах. Деньги сразу на месте! Платим наличными! Хотите вывести ненужную газовую плиту? Тогда звоните нам на номер 7383!">
+    <link rel="canonical" href="https://skupkatehniki.by/pages/gaz.php">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
@@ -71,7 +72,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/GAZ.jpg" alt="gazovaya_plita" />
+                        <img src="../img/GAZ.jpg" width="auto" height="auto" alt="gazovaya_plita" />
                     </div>
                 </div>
 
@@ -127,7 +128,7 @@
         кг(сложно-бытовой техники)
         <br>
         При вывозе нашим транспортом по предварительной заявке: - <strong class="-green">0,25 копеек </strong> (0 руб.
-        20
+        25
         копеек) за 1
         кг
         (погрузо-разгрузочные работы - БЕСПЛАТНО!)

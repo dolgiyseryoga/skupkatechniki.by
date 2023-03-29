@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Сдать на утилизацию оргтехнику</title>
+    <title>Ошибка 404</title>
     <meta name=“description” content=“”>
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css" />
@@ -65,7 +65,7 @@
                     </div>
                 </div>
             </div>
-            <img class="img_404" src="../img/404.jpg" alt="image_404" />
+            <img class="img_404" src="../img/404.jpg" width="auto" height="auto" alt="image_404" />
         </div>
     </div>
 
