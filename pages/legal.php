@@ -77,7 +77,7 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="about-photo">
-                        <img src="../img/radio.jpeg" width="auto" height="auto" alt="radio_components" />
+                        <img src="../img/rad.jpeg" width="auto" height="auto" alt="radio_components" />
                     </div>
                 </div>
 
